@@ -46,7 +46,6 @@ ENV/
 # Local development
 *.log
 scores.txt
-ml_training_data.json
 
 # Operating System
 .DS_Store

@@ -1,12 +1,9 @@
-attrs==25.1.0
-fastjsonschema==2.21.1
-jsonschema==4.23.0
-jsonschema-specifications==2024.10.1
-jupyter_core==5.7.2
-nbformat==5.10.4
-platformdirs==4.3.6
-pywin32==308
-referencing==0.36.2
-rpds-py==0.22.3
-traitlets==5.14.3
+# Core dependencies only
 typing_extensions==4.12.2
+pywin32==308
+
+pandas==2.2.3
+numpy==2.1.2
+scikit-learn==1.5.2
+
+pytest==8.3.3
