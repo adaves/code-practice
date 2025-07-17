@@ -45,7 +45,6 @@ ENV/
 
 # Local development
 *.log
-scores.txt
 
 # Operating System
 .DS_Store
